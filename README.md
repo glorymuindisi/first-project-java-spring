@@ -6,4 +6,5 @@ The name is displayed on the webpage alongside a static image, offering a simple
 The application uses the Thymeleaf template engine to render the HTML page dynamically.
 Static content like images is stored in the appropriate directory and served alongside the web page for a better looking website.
 
-![Screenshot 2025-05-14 210723](https://github.com/user-attachments/assets/8075d989-ee48-41de-bcbf-c7068d8f59e2)
+![Screenshot 2025-05-14 210723](https://github.com/user-attachments/assets/9b54c50e-deb6-447a-83f2-67a14efd8ef2)
+
