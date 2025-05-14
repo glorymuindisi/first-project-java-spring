@@ -5,3 +5,5 @@ the application generates a personalized greeting message.
 The name is displayed on the webpage alongside a static image, offering a simple and user-friendly interface.
 The application uses the Thymeleaf template engine to render the HTML page dynamically.
 Static content like images is stored in the appropriate directory and served alongside the web page for a better looking website.
+
+![Screenshot 2025-05-14 210723](https://github.com/user-attachments/assets/8075d989-ee48-41de-bcbf-c7068d8f59e2)
